@@ -1,0 +1,8 @@
+prefix=/home/group4/catkin_ws/devel
+
+Name: g_4_pk
+Description: Description of g_4_pk
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
