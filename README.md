@@ -1,4 +1,4 @@
-appendix1
+Appendix1
 
 Google Drive link for wood dataset: https://drive.google.com/drive/folders/1WNzWK09va3er4Kz10T6FgElNT3a7sdEb?usp=sharing
 
